@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+# vscode
+.vscode
+
+# 项目专属
+test.py
+demo
